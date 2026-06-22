@@ -1,0 +1,27 @@
+# Runtime/generated
+__pycache__/
+*.pyc
+*.pyo
+*.bak
+*.bak.*
+
+# Backup archives
+*.tar.gz
+*.tgz
+*.zip
+
+# Do not commit private TLS material
+config/letsencrypt/
+**/letsencrypt/archive/**
+**/letsencrypt/live/**
+**/letsencrypt/renewal/**
+
+# LemonLDAP session/runtime state
+**/sessions/**
+**/psessions/**
+**/lock/**
+
+# Local editor files
+*.swp
+*.swo
+.DS_Store
