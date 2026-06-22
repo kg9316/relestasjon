@@ -1,0 +1,9 @@
+{
+  "test": {
+    "pid": 5685,
+    "device": "test",
+    "publicPort": 20055,
+    "tunnelPort": 46273,
+    "startedAt": "2026-06-22T08:49:42.151746+00:00"
+  }
+}

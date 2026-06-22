@@ -1,0 +1,14 @@
+[Unit]
+Description=Tunnel Registry HTTP Endpoint
+After=network.target tunnel-registry.timer
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/tunnel-registry-http.py
+Restart=always
+RestartSec=2
+User=root
+Group=root
+
+[Install]
+WantedBy=multi-user.target

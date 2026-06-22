@@ -1,0 +1,14 @@
+[Unit]
+Description=Tunnel Device Admin Web App
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /usr/local/bin/tunnel-admin.py
+Restart=always
+RestartSec=2
+User=root
+Group=root
+
+[Install]
+WantedBy=multi-user.target

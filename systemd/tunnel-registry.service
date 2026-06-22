@@ -1,0 +1,9 @@
+[Unit]
+Description=Update tunnel registry JSON
+After=network.target ssh.service
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/tunnel-registry.py
+User=root
+Group=root

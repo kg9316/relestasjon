@@ -1,0 +1,11 @@
+/etc/letsencrypt/live/README
+/etc/letsencrypt/live/relestasjon.no/chain.pem
+/etc/letsencrypt/live/relestasjon.no/cert.pem
+/etc/letsencrypt/live/relestasjon.no/README
+/etc/letsencrypt/live/relestasjon.no/fullchain.pem
+/etc/letsencrypt/live/relestasjon.no/privkey.pem
+/etc/letsencrypt/live/auth.relestasjon.no/chain.pem
+/etc/letsencrypt/live/auth.relestasjon.no/cert.pem
+/etc/letsencrypt/live/auth.relestasjon.no/README
+/etc/letsencrypt/live/auth.relestasjon.no/fullchain.pem
+/etc/letsencrypt/live/auth.relestasjon.no/privkey.pem

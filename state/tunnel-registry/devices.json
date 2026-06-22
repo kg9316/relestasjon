@@ -1,0 +1,10 @@
+[
+  {
+    "device": "test",
+    "publicPort": 20055
+  },
+  {
+    "device": "test14",
+    "publicPort": 20065
+  }
+]

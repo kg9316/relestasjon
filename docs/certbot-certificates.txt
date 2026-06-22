@@ -1,0 +1,19 @@
+Saving debug log to /var/log/letsencrypt/letsencrypt.log
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Found the following certs:
+  Certificate Name: auth.relestasjon.no
+    Serial Number: 53b58ec2fb1a0fd67fc7518e89e1ab27a51
+    Key Type: ECDSA
+    Domains: auth.relestasjon.no manager.relestasjon.no
+    Expiry Date: 2026-09-17 20:20:15+00:00 (VALID: 87 days)
+    Certificate Path: /etc/letsencrypt/live/auth.relestasjon.no/fullchain.pem
+    Private Key Path: /etc/letsencrypt/live/auth.relestasjon.no/privkey.pem
+  Certificate Name: relestasjon.no
+    Serial Number: 5a83ebc25e1f68075185346e3301a74f48f
+    Key Type: ECDSA
+    Domains: relestasjon.no *.relestasjon.no
+    Expiry Date: 2026-09-20 07:17:51+00:00 (VALID: 89 days)
+    Certificate Path: /etc/letsencrypt/live/relestasjon.no/fullchain.pem
+    Private Key Path: /etc/letsencrypt/live/relestasjon.no/privkey.pem
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

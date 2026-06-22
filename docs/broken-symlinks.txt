@@ -1,0 +1,2 @@
+/home/kg9316/relestasjon-export/config/nginx/sites-available/llng-manager-api.conf
+/home/kg9316/relestasjon-export/config/nginx/sites-available/handler-nginx.conf

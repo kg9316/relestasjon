@@ -1,0 +1,10 @@
+[Unit]
+Description=Tunnel Relay Manager
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /usr/local/bin/tunnel-relay-manager.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

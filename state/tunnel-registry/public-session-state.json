@@ -1,0 +1,16 @@
+{
+  "test": {
+    "connected": false,
+    "activeSince": null,
+    "lastDurationSeconds": 650,
+    "lastSessionCount": 0,
+    "publicPort": 20055
+  },
+  "test14": {
+    "connected": false,
+    "activeSince": null,
+    "lastDurationSeconds": 0,
+    "lastSessionCount": 0,
+    "publicPort": 20065
+  }
+}
